@@ -1,0 +1,17 @@
+nav{
+    background-color: #cecece;
+}
+
+nav ul{
+    padding-left: 0px;
+    text-align: center;
+}
+
+nav li{
+    display: inline-block;
+    list-style: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 15px 20px;
+    border-bottom: 1px solid grey;
+}
